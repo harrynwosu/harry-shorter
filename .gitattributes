@@ -1,6 +1,8 @@
 subfolder/* linguist-detectable=true
 
 *.go linguist-language=Go
+*.mod linguist-language=Go
+*.sum linguist-language=Go
 
 *.d.ts linguist-documentation=true
 types/*.ts linguist-documentation=true
