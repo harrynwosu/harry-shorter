@@ -1,6 +1,6 @@
 # harry-shorter
 
-This application is my own personal implementation of a URL shortener, converting long and verbose website links to shorter and manageable ones. Think _Bit.ly_ or _TinyUrl_.
+This application is my own personal implementation of a URL shortener, converting long and verbose website links to shorter and manageable ones. Think _Bit.ly_ or _TinyUrl_. The name was supposed to be bear a rather humorous similarity to _Harry Potter_. Hope you like it!😁
 
 #### To-do / Coming soon:
 
