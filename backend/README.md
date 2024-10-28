@@ -1,5 +1,7 @@
 # harry-shorter backend
 
+This is my first stab at a project with Go while learning, so baby steps 👣 !
+
 ## Main Features
 
 -   SHA-256 hashing and Base54 encoding used for generating the short links from the longer URLs.
