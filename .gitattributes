@@ -1,1 +1,9 @@
 subfolder/* linguist-detectable=true
+
+*.go linguist-language=Go
+
+*.d.ts linguist-documentation=true
+types/*.ts linguist-documentation=true
+
+dist/*.ts linguist-vendored=true
+build/*.ts linguist-vendored=true
